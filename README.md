@@ -6,7 +6,7 @@ O projeto possui as seguintes características:
 * Desenvolvido utilizando JSF.
 
 ### Requisitos
-* Possui um banco de dados com uma tabela que representa o modelo.
+* Possuir um banco de dados com uma tabela que representa o modelo.
 
 ### Clonando o projeto
 ```
